@@ -1,0 +1,15 @@
+{
+  "name": "exel-course",
+  "version": "1.0.0",
+  "description": "pure js exel app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "exel"
+  ],
+  "author": "Nazar Denysiak <nazden009@gmail.com>",
+  "license": "ISC"
+}
